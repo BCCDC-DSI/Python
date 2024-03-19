@@ -1,5 +1,5 @@
 
-> Python and R as complementary tools (and not competing)
+> Python *and* R as complementary (not competing) tools
 
 # Topics to come
 
