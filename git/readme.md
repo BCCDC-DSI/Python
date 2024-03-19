@@ -2,14 +2,20 @@
 # Git
 
 - An open-source version control system
+- [Cheatsheet commands](https://education.github.com/git-cheat-sheet-education.pdf)
+
+## Statuses
+
+```git status```
+
+
+
+## Platforms
 
 | | GitHub | GitLab | 
 | :-- | :-- | :-- |
 | Owner | Microsoft (2008) | private company (2014) |
 
-## Statuses
-
-```git status```
 
 ## Knowledge assessment
 
