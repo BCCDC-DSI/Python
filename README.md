@@ -6,7 +6,7 @@
 
 For software-production projects, please **consult with your manager before electing to develop your products in Python**.  
  
-# Reproducible research
+# Reproducible Research
 
 - [Resources](rr)
 
