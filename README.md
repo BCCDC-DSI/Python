@@ -12,3 +12,7 @@ For software-production projects, please **consult with your manager before elec
 
 # Opensource data
 - [Stats Government of New Zealand](https://www.stats.govt.nz/)
+
+# Good reads
+
+[Python for Data Science](https://byuidatascience.github.io/python4ds/index.html)
