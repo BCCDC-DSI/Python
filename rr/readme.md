@@ -30,6 +30,7 @@
   
   Rscript -e 'source("simulate.R")' 
   ```
+Source: [MDPI 2020](https://mdpi-res.com/psych/psych-03-00053/article_deploy/psych-03-00053.pdf)
 
 </details>
 
