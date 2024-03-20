@@ -1,7 +1,8 @@
 # Agenda
 
-|| Activity | Resources |
+| Approx. time | Activity | Notes |
 | :-- | :-- | :-- |
+| | [Intro](https://colab.research.google.com/drive/1zCnCLvfYvJk9-UoHYwG2wrz2cneBwaD0) | Colab How-to |
 | | Demo 1 | [Stats Government of New Zealand](https://www.stats.govt.nz/) |
 | | Demo 2 | |
 | Break |
