@@ -18,17 +18,19 @@
 ## Example workflows
 <details>
 <summary>R</summary>
-```
-# Makefile (target: required_files)
 
-manuscript.pdf: manuscript.Rmd simulated_data.csv 
+  ```
+  # Makefile (target: required_files)
+  
+  manuscript.pdf: manuscript.Rmd simulated_data.csv 
+  
+  Rscript -e 'rmarkdown::render("manuscript.Rmd")' 
+  
+  simulated_data.csv: simulate.R
+  
+  Rscript -e 'source("simulate.R")' 
+  ```
 
-Rscript -e 'rmarkdown::render("manuscript.Rmd")' 
-
-simulated_data.csv: simulate.R
-
-Rscript -e 'source("simulate.R")' 
-```
 </details>
 
 
