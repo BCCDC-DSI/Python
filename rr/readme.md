@@ -13,6 +13,10 @@ Goodman et al. (2016):
 ## Reproducible environments
 
 - [Blog from Nov 2023](https://occasionaldivergences.com/posts/rep-env/)
+- Python:
+  ```
+  pip freeze requirements.txt
+  ```
 
 ## Platforms
 - Kaggle
