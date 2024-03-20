@@ -25,8 +25,7 @@
 | Package name | R | Python | Notes |
 | :-- | :-- | :-- | :-- |
 | ... | bioconductor | biopython | ... |
-
-
+| Violin plots, heatmaps  | ggplot2 | Seaborn | [seaborn and ggplot2](https://medium.com/@oneymavenessa/an-alliance-python-and-r-seaborn-and-ggplot2-233864b77bc4)|
 
 
 [Return to Home](https://bccdc-dsi.github.io/Python-Git-workshop/)
