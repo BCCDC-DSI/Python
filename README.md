@@ -1,8 +1,8 @@
 # Agenda
 
-||||
+|| Activity | Resources |
 | :-- | :-- | :-- |
-| | Demo 1 | |
+| | Demo 1 | [Stats Government of New Zealand](https://www.stats.govt.nz/) |
 | | Demo 2 | |
 | Break |
 | | Demo 3 | |
@@ -19,10 +19,7 @@ For software-production projects, please **consult with your manager before elec
 # Reproducible Research
 
 - [Resources](rr)
-
-# Opensource data
-- [Stats Government of New Zealand](https://www.stats.govt.nz/)
-
+ 
 # Good reads
 
 [Python for Data Science](https://byuidatascience.github.io/python4ds/index.html)
