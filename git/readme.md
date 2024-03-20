@@ -24,6 +24,6 @@
 ## Resources
 
 - [GitLab Learn courses](https://university.gitlab.com/)
-- [Learn GitLab in 3 Hours | GitLab Complete Tutorial for Beginners'' [Youtube](https://www.youtube.com/watch?si=pKCMMJ2OJDEKVA5J&v=8aV5AxJrHDg&feature=youtu.be)
+- ``Learn GitLab in 3 Hours | GitLab Complete Tutorial for Beginners'' [Youtube](https://www.youtube.com/watch?si=pKCMMJ2OJDEKVA5J&v=8aV5AxJrHDg&feature=youtu.be)
 - W3schools Git and GitLab Tutorial
  
