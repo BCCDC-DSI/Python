@@ -1,5 +1,5 @@
 
-> Python *and* R as complementary (not competing) tools
+> Python and R as *complementary* and not competing tools
 
 # Topics to come
 
@@ -19,6 +19,9 @@
 | Plotly | https://plotly.com/r/ | https://plotly.com/python/ | |
 | Polars | https://rpolars.github.io/ | https://docs.pola.rs/ | [Side-by-side guide](https://robertmitchellv.com/blog/2022-07-r-python-side-by-side/r-python-side-by-side.html), [Polars vs Pandas](https://blog.jetbrains.com/dataspell/2023/08/polars-vs-pandas-what-s-the-difference/) |
 | Bayesian inference | [rstan](https://cran.r-project.org/web/packages/rstan/vignettes/rstan.html) |  [pystan](https://pystan.readthedocs.io/) | ... |
+| janitor | janitor | Pyjanitor |
+
+
 
 # Comparable packages (not direct port) 
 
