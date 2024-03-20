@@ -17,7 +17,7 @@ Goodman et al. (2016):
   ```
   pip freeze requirements.txt
   ```
-- [Dockerfile](../examples/Dockerfile) 
+- [Dockerfile](examples/Dockerfile) 
   
 ## Platforms
 - Kaggle
