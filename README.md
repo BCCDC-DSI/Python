@@ -1,3 +1,13 @@
+# Agenda
+
+| | | |
+| :-- | :-- | :-- |
+| | Demo 1 | |
+| | Demo 2 | |
+| Break |
+| | Demo 3 | |
+| | Demo 4 | |
+
 # Python
 
 - Python 101: [Resources](novice/) 
