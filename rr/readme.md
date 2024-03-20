@@ -1,5 +1,12 @@
-
+![image](https://github.com/BCCDC-DSI/Python-Git-workshop/assets/38703113/0908bc57-57b0-4d6e-a4df-7ca123090074)
 # Reproducibility
+
+Goodman et al. (2016):
+- Methods
+- Results
+- Inferential
+
+[More details](theory.md)
 
 ## Version control
 - [Git](../git)
