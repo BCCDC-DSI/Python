@@ -3,7 +3,7 @@
 
 # Topics to come
 
-- [y] [Best practices for R and Python side by side](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/)
+- [x] [Best practices for R and Python side by side](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/)
 - [ ] Fast prototyping of web apps/ dashboards
 - [ ] Geoscripting
 - [ ] Web scraping 
