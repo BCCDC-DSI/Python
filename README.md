@@ -24,3 +24,7 @@ For software-production projects, please **consult with your manager before elec
 
 # Open textbooks 
 - [Python for Data Science](https://byuidatascience.github.io/python4ds/index.html)
+
+
+
+[Home](https://bccdc-dsi.github.io/Python-Git-workshop/)
