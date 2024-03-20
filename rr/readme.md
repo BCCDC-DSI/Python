@@ -15,9 +15,9 @@
 ## Recommended practices
 - [markdown](https://www.markdownguide.org/basic-syntax/)
 
-<details>
 ## Example workflows
-### R 
+<details>
+<summary>R</summary>
 ```
 # Makefile (target: required_files)
 
@@ -29,7 +29,6 @@ simulated_data.csv: simulate.R
 
 Rscript -e 'source("simulate.R")' 
 ```
-  
 </details>
 
 
