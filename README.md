@@ -12,7 +12,8 @@
 # Python
 
 - Python 001: [Resources](novice/) 
-- Python 002: [Creating virtual environments](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/), [tools](tools) 
+- Python 002: [Creating virtual environments](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/), [tools](tools)
+- Python 201: [Deom on writing classes](https://colab.research.google.com/github/hmok/Tutorials/blob/master/beginnersPythonCheatSheet.ipynb#scrollTo=Class_inhertitance)
 - Resources for R users complementing workflows with Python: [Resources](r_users/)
 
 For software-production projects, please **consult with your manager before electing to develop your products in Python**.  
