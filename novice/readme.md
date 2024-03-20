@@ -6,3 +6,19 @@
 
 - [Colab explaining Colab](https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Cheat_sheet_for_Google_Colab.ipynb)
 - [Colab explaining Markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
+
+
+# Contents 
+
+**Not all are core concepts**
+
+- ```def```
+- ```loop```
+- try/catch
+- ...
+ 
+## Packages:
+  - ```plotly```
+  - ```streamlit```
+  - ```polars```
+  - ...
