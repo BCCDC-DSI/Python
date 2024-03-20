@@ -18,8 +18,9 @@ For software-production projects, please **consult with your manager before elec
  
 # Reproducible Research
 
-- [Resources](rr)
- 
-# Good reads
+- [Reproducible Research](rr)
+- [IDE](tools)
+- ... 
 
-[Python for Data Science](https://byuidatascience.github.io/python4ds/index.html)
+# Open textbooks 
+- [Python for Data Science](https://byuidatascience.github.io/python4ds/index.html)
