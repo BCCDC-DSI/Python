@@ -1,4 +1,4 @@
-# Reproducibility
+# Research Reproducibility (RR)
 
 Goodman et al. (2016):
 - Methods
@@ -9,6 +9,10 @@ Goodman et al. (2016):
 
 ## Version control
 - [Git](../git)
+
+## Reproducible environments
+
+- [Blog from Nov 2023](https://occasionaldivergences.com/posts/rep-env/)
 
 ## Platforms
 - Kaggle
