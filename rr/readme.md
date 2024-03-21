@@ -22,7 +22,8 @@ Goodman et al. (2016):
 ## Platforms
 
 <details>
-  ### Free with limits
+
+### Free with limits
 - Kaggle
 - Digital Ocean
 - Google Colab
@@ -30,6 +31,7 @@ Goodman et al. (2016):
 - ...
 
 ### Sponsored accounts
+
 #### Option 1: Servers
 
 Replace ```yourusername``` with your's
