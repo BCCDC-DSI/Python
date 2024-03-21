@@ -25,5 +25,5 @@ For software-production projects, please **consult with your manager before elec
 
 # Open textbooks 
 - [Python for Data Science](https://byuidatascience.github.io/python4ds/index.html)
-- [![Python for SAS Users](https://www.pythonforsasusers.com/images/book_cover_art_opt.png 'book')](https://www.pythonforsasusers.com/)
+- [Python for SAS Users](https://www.pythonforsasusers.com/)
 
