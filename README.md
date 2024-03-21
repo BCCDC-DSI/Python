@@ -2,7 +2,7 @@
 
 | Approx. time | Activity | Notes |
 | :-- | :-- | :-- |
-| | [Intro](https://colab.research.google.com/drive/1zCnCLvfYvJk9-UoHYwG2wrz2cneBwaD0) | Colab How-to |
+| | [Intro](https://colab.research.google.com/drive/1zCnCLvfYvJk9-UoHYwG2wrz2cneBwaD0) | [Colab "How-to" Slides](https://docs.google.com/presentation/d/1mTPV4Wqup52IBjfxC3nbBIzovJB-01w1g-l-kQH_Zrc/) |
 | | Demo 1 | [Stats Government of New Zealand](https://www.stats.govt.nz/) |
 | | Demo 2 | |
 | Break |
