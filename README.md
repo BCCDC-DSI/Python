@@ -6,8 +6,7 @@
 | | Demo 1 | [Stats Government of New Zealand](https://www.stats.govt.nz/) |
 | | Demo 2 | |
 | Break |
-| | Demo 3 | |
-| | Demo 4 | |
+| | Domain-specific topics | [Mapping UBC](https://www.tomasbeuzen.com/python-for-geospatial-analysis/chapters/chapter2_spatial-viz-and-modelling.html)|
 
 # Python
 
