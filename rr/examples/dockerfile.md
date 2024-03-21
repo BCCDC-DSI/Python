@@ -1,3 +1,4 @@
+```
   FROM alpine:3.15
   
   RUN apk add curl linux-headers bash gcc musl-dev g++ pkgconf make file
@@ -44,3 +45,6 @@
   RUN curl -LO https://github.com/goreleaser/nfpm/releases/download/v2.32.0/nfpm_2.32.0_$(arch).apk && \
     apk add --allow-untrusted nfpm*.apk && \
     rm nfpm*.apk
+
+
+```
