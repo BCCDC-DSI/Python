@@ -14,18 +14,26 @@ def map_loc( address ):
 
   fig = Figure( width=400,height=200)
   a_map = folium.Map(location = [lx,ly], zoom_start = 16)
-
+  
   p  = geopy.point.Point(lx, ly)
+  
   gl = geopy.geocoders.Nominatim(user_agent="my_test") # Without the user_agent it raises a ConfigurationError.
   site = gl.reverse(p)
   site_name = site[0]
   folium.Marker( location=[lx, ly], popup='Default popup Marker3',tooltip=site_name).add_to(m)
   fig.add_child(a_map)
+  
   return fig, a_map, site_name
 
+try:
+  address = 'Cactus Club, Downtown'
+  fig, a_map, site_name = map_loc(address)
+except Exception as e:
+  print( e ) 
 
-fig, a_map, site_name = map_loc(address)
-
+st.title( 'My first web app' )
 st.header( 'My favourite restaurant' )
-st.markdown( 'readme.md' )
+st.markdown("# Top heading")
+st.markdown("## Subheading")
+st.read_markdown_file( 'readme.md' )
 st.st_folium( a_map )
