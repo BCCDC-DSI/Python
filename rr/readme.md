@@ -20,11 +20,33 @@ Goodman et al. (2016):
 - [Dockerfile](examples/Dockerfile) 
   
 ## Platforms
+
+<details>
+  ### Free with limits
 - Kaggle
 - Digital Ocean
 - Google Colab
 - Jupyter.org
 - ...
+
+### Sponsored accounts
+#### Option 1: Servers
+
+Replace ```yourusername``` with your's
+- https://sfu.syzygy.ca/jupyter/user/yourusername/lab
+- https://ubc.syzygy.ca/jupyter/user/yourusername/lab
+- [https://jupyterhub.dataspace.copernicus.eu/](https://jupyterhub.dataspace.copernicus.eu/user/r4g.neiss2@gmail.com/lab/workspaces/auto-b)
+
+#### Option 2: Digital Research Alliance 
+
+[Digital Research Alliance; new users require sponsorship](info/DRA.md)
+
+#### Option 3: UBC Advanced Research Computing
+[Digital Research Alliance; new users require sponsorship](https://github.com/lisatwyw/nlp-gala/blob/main/info/DRA.md)
+
+</details>
+
+
 
 
 ## Recommended practices
