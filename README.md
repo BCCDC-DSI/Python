@@ -25,7 +25,7 @@ For software-production projects, please **consult with your manager before elec
 
 # Open textbooks 
 - [Python for Data Science](https://byuidatascience.github.io/python4ds/index.html)
-
+- ![https://www.pythonforsasusers.com/images/book_cover_art_opt.png](https://www.pythonforsasusers.com/)
 
 
 [Home](https://bccdc-dsi.github.io/Python-Git-workshop/)
