@@ -1,3 +1,9 @@
+# Pre-workshop setup
+
+- Modest: GitHub
+- Getting the most out of the workshop: GitHub, Streamlit
+- Advanced: GitHub, Streamlit, Kaggle
+
 # Agenda
 
 | Approx. time | Activity | Notes |
