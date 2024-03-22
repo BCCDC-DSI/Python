@@ -90,3 +90,5 @@ Source: [MDPI 2020](https://mdpi-res.com/psych/psych-03-00053/article_deploy/psy
 
 ## References
 - Davos: A Python package ‘‘smuggler’’ for constructing lightweight reproducible notebooks, Paxton C. Fitzpatrick, Jeremy R. Manning [2024 article](https://doi.org/10.1016/j.softx.2023.101614)
+
+[Return to Home](https://bccdc-dsi.github.io/Python-Git-workshop/)
