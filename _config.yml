@@ -11,6 +11,7 @@ title: Python/Git Workshop
 markdown: GFM
 show_downloads: false
 google_analytics: G-966JZZV0M0
-theme: jekyll-theme-cayman 
-# jekyll-theme-hacker
-# jekyll-theme-merlot
+theme:  jekyll-theme-merlot
+# jekyll-theme-hacker  <-- black background with typewriter font
+# jekyll-theme-merlot 
+# jekyll-theme-cayman  <-- green/blue top banner 
