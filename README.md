@@ -16,12 +16,14 @@ It will be fine to arrive without any accounts setup, in which case your work on
 | | ```Workshop_demo2``` | |
 | | Domain-specific demos | [Mapping UBC](https://www.tomasbeuzen.com/python-for-geospatial-analysis/chapters/chapter2_spatial-viz-and-modelling.html) <br> [Kaggle web-scrap](https://www.kaggle.com/code/jonbown/web-scraping-box-office-data-with-python) <br> [Excel workbook]() <br> [Benchmark](https://colab.research.google.com/drive/1N8Z7a1ULXpHV7qqZZ-lLmQ1cHjnkJ7XW?authuser=1#scrollTo=0BFRwOTFPyQN) |
 
-# Python
+# Resources for Python 
 
 - Python 001: [Resources](novice/) 
 - Python 002: [Creating virtual environments](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/), [tools](tools)
 - Python 201: [Demo on writing classes](https://colab.research.google.com/github/hmok/Tutorials/blob/master/beginnersPythonCheatSheet.ipynb#scrollTo=Class_inhertitance)
-- Resources for R users complementing workflows with Python: [Resources](r_users/)
+
+# R users 
+- [Resources](r_users/)
 
 For software-production projects, please **consult with your manager before electing to develop your products in Python**.  
  
