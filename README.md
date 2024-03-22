@@ -4,7 +4,7 @@ Please setup an account for the following platforms depending on your personal g
 
 | Account | Goals |
 | :-- | :-- |
-| Google | ... if you would like to save your work done during the workshop** |
+| Google | ... if you would like to save your work done during the workshop |
 | Google, GitHub, Streamlit | ... if you would like to get the most out of the workshop |
 | Google, GitHub, Streamlit, Kaggle | ... if you would like to try out everything that was mentioned during the workshop |
 
