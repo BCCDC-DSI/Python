@@ -4,7 +4,7 @@
 - Getting the most out of the workshop: GitHub, Streamlit
 - Advanced: GitHub, Streamlit, Kaggle
 
-# Agenda
+# Workshop agenda
 
 | Approx. time | Activity | Notes |
 | :-- | :-- | :-- |
