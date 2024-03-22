@@ -6,7 +6,7 @@
 | | ```Workshop_demo1``` | [Stats Government of New Zealand](https://www.stats.govt.nz/) |
 | | ```Workshop_demo2``` | |
 | Break |
-| | Domain-specific topics | [Mapping UBC](https://www.tomasbeuzen.com/python-for-geospatial-analysis/chapters/chapter2_spatial-viz-and-modelling.html) <br> [Excel workbook]() |
+| | Domain-specific topics | [Mapping UBC](https://www.tomasbeuzen.com/python-for-geospatial-analysis/chapters/chapter2_spatial-viz-and-modelling.html) <br> [Excel workbook]() <br> [Benchmark](https://colab.research.google.com/drive/1N8Z7a1ULXpHV7qqZZ-lLmQ1cHjnkJ7XW?authuser=1#scrollTo=0BFRwOTFPyQN) |
 
 # Python
 
