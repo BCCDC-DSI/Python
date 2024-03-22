@@ -32,8 +32,17 @@ Goodman et al. (2016):
     
   ```  
   </details>
-  
-## Platforms
+
+
+## Publishing platforms
+
+- [Dryad](https://datadryad.org/)
+  - A community-owned resource
+  - Python package ```dryad2dataverse```
+- [Open Science framework.io](https://osf.io)
+
+## Coding platforms
+
 
 <details>
 
