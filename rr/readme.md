@@ -17,7 +17,21 @@ Goodman et al. (2016):
   ```
   pip freeze requirements.txt
   ```
-- [Dockerfile](examples/Dockerfile) 
+- [Dockerfile](examples/Dockerfile)
+- YAML is a human readable language
+  - Often used to write configuration files
+  <details>
+  ```
+    ---
+    title: "Reports on alerts"
+    author: "Winnie Mo"
+    date: "2024-APR-05"
+    format: html
+    jupyter: python3
+    ---
+    
+  ```  
+  </details>
   
 ## Platforms
 
