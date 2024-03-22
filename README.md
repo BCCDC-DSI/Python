@@ -9,7 +9,7 @@ It will be fine to arrive without any accounts setup, in which case your work on
 
 # Workshop agenda
 
-| Approx. time | Activity | Notes |
+| Approx. time | Activity | Additional resources & Summary notes |
 | :-- | :-- | :-- |
 | | [Intro](https://colab.research.google.com/drive/1zCnCLvfYvJk9-UoHYwG2wrz2cneBwaD0) | [Colab "How-to" Slides](https://docs.google.com/presentation/d/1mTPV4Wqup52IBjfxC3nbBIzovJB-01w1g-l-kQH_Zrc/) |
 | | ```Workshop_demo1``` | [Stats Government of New Zealand](https://www.stats.govt.nz/) |
