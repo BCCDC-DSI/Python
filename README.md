@@ -1,8 +1,9 @@
 # Pre-workshop setup
 
-- Modest: GitHub
-- Getting the most out of the workshop: GitHub, Streamlit
-- Advanced: GitHub, Streamlit, Kaggle
+Please setup an account for the following platforms depending on your personal goals:
+- GitHub, Streamlit, if you would like to get the most out of the workshop:
+- GitHub, Streamlit, Kaggle, if you would like to try out everything that was mentioned during the workshop
+
 
 # Workshop agenda
 
