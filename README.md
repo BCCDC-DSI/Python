@@ -6,7 +6,7 @@ Please setup an account for the following platforms depending on your personal g
 | :-- | :-- |
 | Google | ... if you would like to save your work done during the workshop |
 | Google, GitHub, Streamlit | ... if you would like to get the most out of the workshop |
-| Google, [GitHub](https://github.com/), [Streamlit](streamlit.io), [Kaggle](https://www.kaggle.com/) | ... if you would like to try out everything that was mentioned during the workshop |
+| Google, [GitHub](https://github.com/), [Streamlit](https://streamlit.io), [Kaggle](https://www.kaggle.com/) | ... if you would like to try out everything that was mentioned during the workshop |
 
 It will be fine to arrive without any accounts setup, in which case your work on Google Colab can be exported before you leave the workshop.
 
