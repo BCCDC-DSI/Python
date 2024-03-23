@@ -1,7 +1,7 @@
 
 # Demo notebooks
 
-| Approx. time | Activity | Additional resources & Summary notes |
+| Approx. time | Activity | Summary notes |
 | :-- | :-- | :-- |
 | 5 | [```myfirstpy_colab```](https://colab.research.google.com/drive/1zCnCLvfYvJk9-UoHYwG2wrz2cneBwaD0) | - [Colab "How-to" Slides](https://docs.google.com/presentation/d/1mTPV4Wqup52IBjfxC3nbBIzovJB-01w1g-l-kQH_Zrc/) |
 | 15 | [```Workshop_demo1```](https://colab.research.google.com/drive/1imlBKcMkvBnz61H6lFv8cnwvv066zd76) | |
