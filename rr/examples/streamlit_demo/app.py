@@ -18,35 +18,45 @@ from branca.element import Figure
 
 def map_loc( address ):
   '''
-  Creates a map
+  Returns a map plot for a query string address 
   '''
-
   geolocator = geopy.geocoders.Nominatim(user_agent="3")
   location = geolocator.geocode( address )         
   lx,ly=location.longitude, location.latitude
-
+  #  If you pass coordinates as positional args, please make sure that the order is (latitude, longitude) or (y, x) in Cartesian terms.
   fig = Figure( width=400,height=200)
-  a_map = folium.Map(location = [lx,ly], zoom_start = 16)
+  a_map = folium.Map(location = [ly,lx], zoom_start = 16)
   
-  p  = geopy.point.Point(lx, ly)
+  p  = geopy.point.Point(ly, lx)
   
   gl = geopy.geocoders.Nominatim(user_agent="my_test") # Without the user_agent it raises a ConfigurationError.
   site = gl.reverse(p)
   site_name = site[0]
-  folium.Marker( location=[lx, ly], popup='Default popup Marker3',tooltip=site_name).add_to(m)
+  folium.Marker( location=[ly, lx], popup='Default popup Marker3',tooltip=site_name).add_to(a_map)
   fig.add_child(a_map)
   
   return fig, a_map, site_name
 
-try:
-  address = 'Cactus Club, Downtown'
-  fig, a_map, site_name = map_loc(address)
-except Exception as e:
-  print( e ) 
 
 st.title( 'My first web app' )
-st.header( 'My favourite restaurant' )
+
+f = 'README.md'
+mkd = Path( f ).read_text()
+st.markdown( mkd )
+
+st.header( 'My favourite places' )
 st.markdown("# Top heading")
 st.markdown("## Subheading")
-st.read_markdown_file( 'readme.md' )
-st.st_folium( a_map )
+
+default_addr = 'Stanley Park, Vancouver'   
+try:
+  address = st.text_area( 'Enter name of queried site for forecasts:', value=default_addr )
+  fig, a_map, site_name = map_loc(address)
+  st_folium( a_map )
+except:    
+  try:
+    fig, a_map, site_name = map_loc(default_addr)
+    st_folium( a_map )
+  except Exception as e:
+    print( e ) 
+  
