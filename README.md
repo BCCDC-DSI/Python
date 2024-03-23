@@ -1,4 +1,6 @@
-# Pre-workshop setup
+# 2024-APR-05 - Interactive workshop on Python/Git for Reproducible Research
+
+## Pre-workshop setup
 
 Please setup an account for the following platforms depending on your personal goals
 
@@ -10,7 +12,7 @@ Please setup an account for the following platforms depending on your personal g
 
 It will be fine to arrive without any accounts setup, in which case your work on Google Colab can be exported before you leave the workshop.
 
-# 2024-APR-05 workshop agenda
+## April 5 Agenda
 
 | Approx. time | Activity | Additional resources & Summary notes |
 | :-- | :-- | :-- |
@@ -19,7 +21,9 @@ It will be fine to arrive without any accounts setup, in which case your work on
 | | ```Workshop_demo2``` | |
 | | Domain-specific demos | [Mapping UBC](https://www.tomasbeuzen.com/python-for-geospatial-analysis/chapters/chapter2_spatial-viz-and-modelling.html) <br> [Kaggle web-scrap](https://www.kaggle.com/code/jonbown/web-scraping-box-office-data-with-python) <br> [Excel workbook]() <br> [Benchmark](https://colab.research.google.com/drive/1N8Z7a1ULXpHV7qqZZ-lLmQ1cHjnkJ7XW?authuser=1#scrollTo=0BFRwOTFPyQN) |
 
-# Resources for Python 
+# Resources 
+
+## Python from beginning
 
 - Python 001: [Resources](novice/) 
 - Python 002: [Creating virtual environments](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/), [tools](tools)
@@ -27,17 +31,16 @@ It will be fine to arrive without any accounts setup, in which case your work on
 
 For software-production projects, please **consult with your manager before electing to develop your products in Python**.  
 
-# R users 
+## R users 
 - [Resources](r_users/)
-
  
-# Reproducible Research
+## Reproducible Research
 
 - [Reproducible Research](rr)
 - [IDE](tools)
 - ... 
 
-# Open textbooks 
+## Open textbooks 
 - [Python for Data Science](https://byuidatascience.github.io/python4ds/index.html)
 - [Python for SAS Users](https://www.pythonforsasusers.com/)
 
