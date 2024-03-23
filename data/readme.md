@@ -16,4 +16,4 @@ Quick copy-paste:
 
 [Return to Home](https://bccdc-dsi.github.io/Python-Git-workshop/)
 
-[.](https://bccdc-dsi.github.io/Python-Git-workshop/data/links.md)
+[^-^](https://bccdc-dsi.github.io/Python-Git-workshop/data/demo/)
