@@ -23,9 +23,9 @@ It will be fine to arrive without any new accounts of above, in which case, you 
 | | ```Workshop_demo2``` | |
 | | Domain-specific demos | - [Mapping UBC]() <br> - [web-scraping]() <br> - [Excel workbook]() <br> - [Simple benchmarking]() <br> - [```polars``` cheatsheet]()|
 
-# Resources 
+## Resources 
 
-## Python from beginning
+### Python from beginning
 
 - Python 001: [Resources](novice/) 
 - Python 002: [Creating virtual environments inhouse]() | [Guidelines](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/) | [tools](tools)
@@ -33,12 +33,13 @@ It will be fine to arrive without any new accounts of above, in which case, you 
 
 For software-production projects, please **consult with your manager before electing to develop your products in Python**.  
 
-## Python to R
+### Python to R
 
 - [2019 blog](https://medium.com/@nawazahmad20/r-for-python-programmers-part-1-ca4eab668b8c)
 - Suggestions?
   
-## R users 
+### R users complementing work with Python
+
 - [Resources](r_users/)
  
 ## Reproducible Research
