@@ -11,9 +11,14 @@ title: Python/Git Workshop
 markdown: GFM
 show_downloads: true
 google_analytics: G-966JZZV0M0
-theme:  jekyll-theme-architect
+theme:  jekyll-theme-leap-day
 
-# jekyll-theme-minimal <-- blue
-# jekyll-theme-hacker  <-- black background with typewriter font
-# jekyll-theme-merlot  <-- scrolls as decorations
-# jekyll-theme-cayman  <-- green/blue top banner 
+
+# jekyll-theme-minimal     <-- blue
+# jekyll-theme-hacker      <-- black background with typewriter font
+# jekyll-theme-architect   <-- handwriting-like font
+# jekyll-theme-merlot      <-- scrolls as decorations
+# jekyll-theme-cayman      <-- green/blue top banner 
+# jekyll-theme-midnight    <-- dark
+#
+# others:                  <-- https://github.com/pages-themes
