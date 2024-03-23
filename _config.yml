@@ -9,9 +9,9 @@ include:
 # this version will render table properly https://github.com/orgs/community/discussions/23945
 title: Python/Git Workshop
 markdown: GFM
-show_downloads: false
+show_downloads: true
 google_analytics: G-966JZZV0M0
 theme:  jekyll-theme-merlot
 # jekyll-theme-hacker  <-- black background with typewriter font
-# jekyll-theme-merlot 
+# jekyll-theme-merlot  <-- scrolls as decorations
 # jekyll-theme-cayman  <-- green/blue top banner 
