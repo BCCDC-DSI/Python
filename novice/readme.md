@@ -10,9 +10,11 @@
 
 # Setup
 - Windows
- - conda > python
- - ipython    
-- OSMac
+  - conda > python
+  - ipython    
+- Linux/Unix/MacOS
+ - brew
+ - ...
 
 # Contents
 
