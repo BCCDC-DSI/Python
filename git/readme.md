@@ -4,7 +4,7 @@
 - An open-source version control system
 - [Cheatsheet commands](https://education.github.com/git-cheat-sheet-education.pdf)
 
-## Get started
+## R users' guide to Git
 - [GitHub first](https://intro2r.com/setting-up-a-project-in-rstudio.html#opt1)
 - [Rstudio first](https://intro2r.com/setting-up-a-project-in-rstudio.html#opt2)
 
