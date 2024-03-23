@@ -21,14 +21,14 @@ It will be fine to arrive without any new accounts of above, in which case, you 
 | | [Intro](https://colab.research.google.com/drive/1zCnCLvfYvJk9-UoHYwG2wrz2cneBwaD0) | [Colab "How-to" Slides](https://docs.google.com/presentation/d/1mTPV4Wqup52IBjfxC3nbBIzovJB-01w1g-l-kQH_Zrc/) |
 | | ```Workshop_demo1``` | - [Links to opensource data](data) |
 | | ```Workshop_demo2``` | |
-| | Domain-specific demos | - [Mapping UBC](https://www.tomasbeuzen.com/python-for-geospatial-analysis/chapters/chapter2_spatial-viz-and-modelling.html) <br> - [Kaggle web-scraping](https://www.kaggle.com/code/jonbown/web-scraping-box-office-data-with-python) <br> - [Excel workbook]() <br> - [Benchmark](https://colab.research.google.com/drive/1N8Z7a1ULXpHV7qqZZ-lLmQ1cHjnkJ7XW) <br> - [```polars``` cheatsheet](https://colab.research.google.com/drive/1ChG5jSXlSH2DUDUwCrRcIbArzzfipF-9)|
+| | Domain-specific demos | - [Mapping UBC]() <br> - [web-scraping]() <br> - [Excel workbook]() <br> - [Simple benchmarking]() <br> - [```polars``` cheatsheet]()|
 
 # Resources 
 
 ## Python from beginning
 
 - Python 001: [Resources](novice/) 
-- Python 002: [Creating virtual environments](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/), [tools](tools)
+- Python 002: [Creating virtual environments](} | [Guidelines](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/) | [tools](tools)
 - Python 201: [Demo on writing classes](https://colab.research.google.com/github/hmok/Tutorials/blob/master/beginnersPythonCheatSheet.ipynb#scrollTo=Class_inhertitance)
 
 For software-production projects, please **consult with your manager before electing to develop your products in Python**.  
