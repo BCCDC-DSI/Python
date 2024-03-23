@@ -33,6 +33,11 @@ It will be fine to arrive without any new accounts of above, in which case, you 
 
 For software-production projects, please **consult with your manager before electing to develop your products in Python**.  
 
+## Python to R
+
+- [2019 blog](https://medium.com/@nawazahmad20/r-for-python-programmers-part-1-ca4eab668b8c)
+- Suggestions?
+  
 ## R users 
 - [Resources](r_users/)
  
