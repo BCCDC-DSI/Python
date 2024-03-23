@@ -14,8 +14,7 @@
 
 | | GitHub | GitLab | 
 | :-- | :-- | :-- |
-| Owner | Microsoft (2008) | private company (2014) |
-| Difficulty with setting up GitPages | Trivial | Slightly more involved/ Cannot render markdown |
+| GitPages | Setup is close to trivial | - Setup more involved <br>- Cannot render markdown |
 
 ## Knowledge assessment
 
