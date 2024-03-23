@@ -8,11 +8,12 @@
 - [GitHub first](https://intro2r.com/setting-up-a-project-in-rstudio.html#opt1)
 - [Rstudio first](https://intro2r.com/setting-up-a-project-in-rstudio.html#opt2)
 
-## Statuses
+## Collaborative workflows
+- sync
+- Pull
+- Branching
 
-```git status```
-
-
+[Further details](https://www.atlassian.com/git/tutorials/syncing)
 
 ## Platforms
 
