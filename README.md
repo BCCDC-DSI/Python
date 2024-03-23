@@ -10,7 +10,7 @@ Please setup an account for the following platforms depending on your personal g
 
 It will be fine to arrive without any accounts setup, in which case your work on Google Colab can be exported before you leave the workshop.
 
-# Workshop agenda
+# 2024-APR-05 workshop agenda
 
 | Approx. time | Activity | Additional resources & Summary notes |
 | :-- | :-- | :-- |
