@@ -1,3 +1,5 @@
+[GitPages](https://bccdc-dsi.github.io/Python-Git-workshop/)
+
 # 2024-APR-05 - Interactive workshop on Python/Git for Reproducible Research
 
 ## Pre-workshop setup
