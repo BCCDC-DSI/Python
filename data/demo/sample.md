@@ -2,7 +2,7 @@
 
 # Practice
 
-Review today[1^]:
+Review today [^1]:
 
 ### My fav R packages
 - pacman
@@ -22,4 +22,4 @@ Review today[1^]:
 3, Carson, 22
 ```
 
-[1^]: Or tmw
+[^1]: Or tmw
