@@ -4,9 +4,10 @@
 
 Review today[^1]
 
-### My fav R packages
-- pacman
+### Best packages
+- ggplot2
 - renv
+- pacman
 
 ### Python I know 
 
