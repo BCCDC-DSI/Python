@@ -19,8 +19,7 @@ Review today[^1]
 
 ```
 1, Alma, 31
-2, Betty, 21
-3, Carson, 22
+2, Betty, 23
 ```
 
 [^1]: Or tmw
