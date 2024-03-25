@@ -12,7 +12,7 @@ Review today[^1]
 ### Python I know 
 
 - [x] ```pandas```
-- [x] ```leaflet```
+- [x] ```plotly```
 - [ ] ```polars``` 
 
 ### Sample CSV
