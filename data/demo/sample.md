@@ -6,12 +6,12 @@ Review today[^1]
 
 ## Packages
 
-# R
+### R
 - ggplot2
 - renv
 - pacman
 
-# Python I've seen 
+### Python I've seen 
 
 - [x] ```pandas```
 - [x] ```plotly```
