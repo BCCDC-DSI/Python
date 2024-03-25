@@ -3,7 +3,7 @@
 
 | Approx. time | Activity | Summary notes |
 | :-- | :-- | :-- |
-| 5 | [```myfirstpy_colab```](https://colab.research.google.com/drive/1zCnCLvfYvJk9-UoHYwG2wrz2cneBwaD0) | - [Colab "How-to" Slides](https://docs.google.com/presentation/d/1mTPV4Wqup52IBjfxC3nbBIzovJB-01w1g-l-kQH_Zrc/) |
+| 5 | [myfirstpy_colab](https://colab.research.google.com/drive/1zCnCLvfYvJk9-UoHYwG2wrz2cneBwaD0) | - [Colab "How-to" Slides](https://docs.google.com/presentation/d/1mTPV4Wqup52IBjfxC3nbBIzovJB-01w1g-l-kQH_Zrc/) |
 | 15 | [Workshop_demo1](https://colab.research.google.com/drive/1imlBKcMkvBnz61H6lFv8cnwvv066zd76) | |
 | 20 | [Workshop_demo2](https://colab.research.google.com/drive/1BZjUHZugpOIoT3WNCYiRKReROyIHCnu) |
 | 20 | - [I/O](https://colab.research.google.com/drive/1THB6N2GOHPA7bxIMeKx50zTp1enKZkkl) <br> - [Basics of text processing](https://colab.research.google.com/drive/1wVz-94bDw_teotHaeKXqguPIN75fD7Mo) <br> - [Excel workbook](https://colab.research.google.com/drive/15ErdtG6BFvIvIaydXFr2fLyLJwqoLfQJ?usp=sharing)  <br> - [web-scraping](https://colab.research.google.com/drive/1H5uD5gsuIR_z7qXkY5GUkrFyyT_sOEYG) <br> - [SQLite](https://colab.research.google.com/drive/1WciD3M0D_34yyoSO0DKMa7EpFHcaCUwh) <br> - [Benchmarking demo](https://colab.research.google.com/drive/1N8Z7a1ULXpHV7qqZZ-lLmQ1cHjnkJ7XW) <br> - [```polars``` cheatsheet](https://colab.research.google.com/drive/1ChG5jSXlSH2DUDUwCrRcIbArzzfipF-9)|
