@@ -2,7 +2,7 @@
 
 # Practice
 
-Review today [^1]:
+Review today[^1]
 
 ### My fav R packages
 - pacman
