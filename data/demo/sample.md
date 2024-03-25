@@ -4,18 +4,20 @@
 
 Review today[^1]
 
-#### Best packages
+## Packages
+
+# R
 - ggplot2
 - renv
 - pacman
 
-#### Python I know 
+# Python I've seen 
 
 - [x] ```pandas```
 - [x] ```plotly```
 - [ ] ```polars``` 
 
-#### Sample CSV
+## Sample CSV
 
 ```
 1, Alma, 31
