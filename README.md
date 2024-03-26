@@ -14,14 +14,6 @@ Please setup an account for the following platforms depending on your personal g
 
 It will be fine to arrive without any new accounts of above, in which case, you can use a **shared Google account** and export your work before you leave the workshop.
 
-## April 5 Agenda
-
-| Approx. time | Activity | Additional resources & Summary notes |
-| :-- | :-- | :-- |
-| | [Intro](https://colab.research.google.com/drive/1zCnCLvfYvJk9-UoHYwG2wrz2cneBwaD0) | [Colab "How-to" Slides](https://docs.google.com/presentation/d/1mTPV4Wqup52IBjfxC3nbBIzovJB-01w1g-l-kQH_Zrc/) |
-| | ```Workshop_demo1``` | - [Links to opensource data](data) |
-| | ```Workshop_demo2``` | |
-| | Domain-specific demos | - [Mapping UBC]() <br> - [web-scraping]() <br> - [Excel workbook]() <br> - [Simple benchmarking]() <br> - [```polars``` cheatsheet]()|
 
 ## Resources 
 
