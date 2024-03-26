@@ -20,7 +20,7 @@ It will be fine to arrive without any new accounts of above, in which case, you 
 ### Python from beginning
 
 - [Python 001](python/) 
-- Python 002: [Creating virtual environments inhouse](python/experienced) | [Guidelines](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/) | [tools](tools)
+- Python 002: [Creating virtual environments inhouse](python/seasoned) | [Guidelines](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/) | [tools](tools)
 - Python 201: [Demo on writing classes](https://colab.research.google.com/github/hmok/Tutorials/blob/master/beginnersPythonCheatSheet.ipynb#scrollTo=Class_inhertitance)
 
 For software-production projects, please **consult with your manager before electing to develop your products in Python**.  
