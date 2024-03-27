@@ -20,8 +20,9 @@ Goodman et al. (2016):
 - [Dockerfile](examples/Dockerfile)
 - YAML is a human readable language
   - Often used to write configuration files
-  <details>
-  ```
+
+<details>
+```
     ---
     title: "Reports on alerts"
     author: "Winnie Mo"
@@ -29,9 +30,9 @@ Goodman et al. (2016):
     format: html
     jupyter: python3
     ---
-    
-  ```  
-  </details>
+  
+```  
+</details>
 
 
 ## Publishing platforms
