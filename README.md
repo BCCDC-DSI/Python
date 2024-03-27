@@ -2,7 +2,21 @@ Click to view as [GitPages](https://bccdc-dsi.github.io/Python-Git-workshop/)
 
 # 2024-APR-05 - Interactive workshop on Python/Git for Reproducible Research
 
-## Pre-workshop setup
+## Setup
+
+### Prep session before the workshop
+
+Please setup an account for the following platforms depending on your personal goals
+
+| Accounts to obtain | Goals |
+| :-- | :-- |
+| Google | ... if you would like to save your work done during the workshop |
+| Google, GitHub, Streamlit | ... if you would like to get the most out of the workshop |
+| [Google](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARZ0qKJlj6VIf3H8gET1BA2BD8q98Mm4xnSs68VLWCmFiPkNzPaJJzqZc710ymyW9iZ8fWezEDxlLg&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1207831730%3A1711210547935397&theme=mn&ddm=0), [GitHub](https://github.com/), [Streamlit](https://streamlit.io) | ... if you would like to try out everything that was mentioned during the workshop |
+
+It will be fine to arrive without any new accounts of above, in which case, you can export your work before you leave the workshop.
+
+### April 5th session
 
 Please setup an account for the following platforms depending on your personal goals
 
@@ -11,9 +25,6 @@ Please setup an account for the following platforms depending on your personal g
 | Google | ... if you would like to save your work done during the workshop |
 | Google, GitHub, Streamlit | ... if you would like to get the most out of the workshop |
 | [Google](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARZ0qKJlj6VIf3H8gET1BA2BD8q98Mm4xnSs68VLWCmFiPkNzPaJJzqZc710ymyW9iZ8fWezEDxlLg&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1207831730%3A1711210547935397&theme=mn&ddm=0), [GitHub](https://github.com/), [Streamlit](https://streamlit.io), [Kaggle](https://www.kaggle.com/) | ... if you would like to try out everything that was mentioned during the workshop |
-
-It will be fine to arrive without any new accounts of above, in which case, you can use a **shared Google account** and export your work before you leave the workshop.
-
 
 ## Resources 
 
