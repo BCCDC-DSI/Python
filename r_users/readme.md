@@ -29,7 +29,7 @@
 | Bayesian inference | [rstan](https://cran.r-project.org/web/packages/rstan/vignettes/rstan.html) |  [pystan](https://pystan.readthedocs.io/) | ... |
 | janitor | janitor | Pyjanitor |
 
-[^1]:[A simple benchmark](https://colab.research.google.com/drive/1N8Z7a1ULXpHV7qqZZ-lLmQ1cHjnkJ7XW)
+[^1]:[A simple benchmark Colab demo comparing Ploars with Pandas in Python](https://colab.research.google.com/drive/1N8Z7a1ULXpHV7qqZZ-lLmQ1cHjnkJ7XW)
 
 
 
