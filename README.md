@@ -4,9 +4,13 @@ Click to view as [GitPages](https://bccdc-dsi.github.io/Python-Git-workshop/)
 
 ## Setup
  
+### April 4th session
+
+We can assist attendees to install Anaconda/ Git. It is not necessary to install GitHub Desktop.
+
 ### April 5th session
 
-Please setup an account for the following platforms depending on your personal goals
+Please setup an account for each of the following platforms depending on your personal goals
 
 | Accounts to obtain | Goals |
 | :-- | :-- |
@@ -41,16 +45,15 @@ For software-production projects, please **consult with your manager before elec
 
 ## Acknowledgements
 
-- Many thanks to the curriculum consultants:
- - Abdulaa Babili
- - Chris Fjell 
- - Citlali Marquez
- - Dahn Jeong
- - Fran Thistlethwaite
- - Jamal Taghavimehr
- - John Palmer
- - Michael Kuo
- - Mike Irvine
+Many thanks to Data & Analytics Services and the curriculum consultants:
+- Abdulaa Babili
+- Chris Fjell 
+- Citlali Marquez
+- Dahn Jeong
+- Fran Thistlethwaite
+- Jamal Taghavimehr
+- John Palmer
+- Michael Kuo
+- Mike Irvine
 
-- Administrative support 
- - Data & Analytics Services
+
