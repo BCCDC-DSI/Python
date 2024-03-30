@@ -28,7 +28,7 @@ Please setup an account for each of the following platforms depending on your pe
  - [2019 blog](https://medium.com/@nawazahmad20/r-for-python-programmers-part-1-ca4eab668b8c)
  - Suggestions?
 
-For software-production projects, please **consult with your manager before electing to develop your products in Python**.  
+For software-production projects, please ***consult with your manager before electing to develop your products in Python***.  
 
 ## R users complementing work with Python
 - [resources](r_users/)
