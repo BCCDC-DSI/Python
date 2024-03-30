@@ -12,7 +12,7 @@ Goodman et al. (2016):
 
 ## Reproducible environments
 
-- ***New!!*** [Best practices on Kaggle](https://www.kaggle.com/code/rtatman/reproducible-research-best-practices-jupytercon)
+- ***New!!*** [Best practices to RR from a Kaggler](https://www.kaggle.com/code/rtatman/reproducible-research-best-practices-jupytercon)
 - [Blog from Nov 2023](https://occasionaldivergences.com/posts/rep-env/)
 - Python:
   ```
