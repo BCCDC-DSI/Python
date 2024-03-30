@@ -1,7 +1,9 @@
 
 # R users picking up Python
 
-> Python and R as *complementary* and not competing tools
+## But why?
+
+> Think of Python and R as *complementary* and not competing tools
 
 ## Sushi vs spaghetti 
 - [2017 comparison](https://www.airitilibrary.com/Article/Detail/16838602-201707-201711160005-201711160005-355-371)
