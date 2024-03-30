@@ -1,6 +1,6 @@
 Click to view as [GitPages](https://bccdc-dsi.github.io/Python-Git-workshop/)
 
-# 2024-APR-05 - Interactive workshop on Python/Git for Reproducible Research
+# 2024-APR-05: Interactive workshop on Git & Python for Reproducible Research
 
 ## Setup
  
@@ -19,20 +19,38 @@ Please setup an account for the following platforms depending on your personal g
 - [Python 101](python/) 
 - Python 102: [Creating virtual environments inhouse](python/seasoned) | [Guidelines](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/) | [tools](tools)
 - Python 201: [Demo on writing classes](https://colab.research.google.com/github/hmok/Tutorials/blob/master/beginnersPythonCheatSheet.ipynb#scrollTo=Class_inhertitance)
+  
+- Python users picking up R:
+ - [2019 blog](https://medium.com/@nawazahmad20/r-for-python-programmers-part-1-ca4eab668b8c)
+ - Suggestions?
 
 For software-production projects, please **consult with your manager before electing to develop your products in Python**.  
 
-### Python users picking up R
-- [2019 blog](https://medium.com/@nawazahmad20/r-for-python-programmers-part-1-ca4eab668b8c)
-- Suggestions?
-  
-### [R users complementing work with Python](r_users/)
+## R users complementing work with Python
+- [resources](r_users/)
  
-## [Reproducible Research](rr)
+## Reproducible Research (RR)
 
-## [Repeatable development environments](tools)
+- [Resources](rr)
+- [Repeatable development environments](tools)
 
 ## Open textbooks 
 - [Python for Data Science](https://byuidatascience.github.io/python4ds/index.html)
 - [Python for SAS Users](https://www.pythonforsasusers.com/)
 
+
+## Acknowledgements
+
+- Many thanks to the curriculum consultants:
+ - Abdulaa Babili
+ - Chris Fjell 
+ - Citlali Marquez
+ - Dahn Jeong
+ - Fran Thistlethwaite
+ - Jamal Taghavimehr
+ - John Palmer
+ - Michael Kuo
+ - Mike Irvine
+
+- Administrative support 
+ - Data & Analytics Services
