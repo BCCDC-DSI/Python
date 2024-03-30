@@ -10,11 +10,11 @@
 
 # Setup
 - Windows
-  - conda > python
-  - ipython    
+  - [Tutorial from DataCamp](https://www.datacamp.com/tutorial/installing-anaconda-windows)
+  - Consider installing ```ipython``` and ```ipykernel``` (interactive Python program) as well   
 - Linux/Unix/MacOS
- - brew
- - ...
+   - ```brew```
+   - ...
 
 # Contents
 
