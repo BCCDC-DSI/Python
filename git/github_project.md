@@ -1,12 +1,12 @@
 
 # GitHub - Q: projects or repo?
 
-Extracted from a [LinkedIn post](https://www.linkedin.com/pulse/difference-between-github-repository-project-mahmoud-alsayied)
+Extracted from a [LinkedIn post](https://www.linkedin.com/pulse/difference-between-github-repository-project-mahmoud-alsayied) published on Nov 19, 2021
+
 
 Author: Mahmoud AlSayed 
 - Frontend Developer | JavaScript, ReactJS, React Native, Redux, NextJS, SASS | UI Developer | Seeking Full-Time software Developer Job
-- Published Nov 19, 2021
- 
+   
 > There are two types of repositories – bare repository and non-bare repository. 
 > The former is intended for collaboration, allowing you to synchronize with the changes made by other developers.
 > The latter is meant for private solo development, allowing you to create a new version of the repository.
