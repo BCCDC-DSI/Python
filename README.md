@@ -45,7 +45,7 @@ For software-production projects, please ***consult with your manager before ele
 
 ## Acknowledgements
 
-Many thanks to Data & Analytics Services and the curriculum consultants:
+Many thanks to *Data & Analytics Services* and the curriculum consultants:
 - Abdulaa Babili
 - Chris Fjell 
 - Citlali Marquez
