@@ -21,7 +21,6 @@ Quick copy-paste:
 [Return to Home](https://bccdc-dsi.github.io/Python-Git-workshop/)
 
 
-## References
 
 [^1]: Michael A. Skinnider, Sandrine A. M. Mérette, Daniel Pasin, Jason Rogalski, Leonard J. Foster,
 Frank Scheuermeyer, and Aaron M. Shapiro Identification of Emerging Novel Psychoactive Substances by Retrospective Analysis of Population-Scale Mass Spectrometry Data Sets", Annal Chem 2023 [DOI](https://doi.org/10.1021/acs.analchem.3c03451) 
