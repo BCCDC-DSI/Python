@@ -21,11 +21,18 @@
 | :-- | :-- | :-- |
 | GitPages | Setup is close to trivial | - Setup more involved <br>- Cannot render markdown |
 
+## GitHub: Project vs repo
 
-## Resources
+[Project vs Repo](git_project.md)
+
+## GitLab
+
+Coming soon.
+
+## Additional resources
 - [w3school quiz](https://www.w3schools.com/quiztest/quiztest.asp)
 - [GitLab Learn courses](https://university.gitlab.com/)
-- ''Learn GitLab in 3 Hours | GitLab Complete Tutorial for Beginners'' [Youtube](https://www.youtube.com/watch?si=pKCMMJ2OJDEKVA5J&v=8aV5AxJrHDg&feature=youtu.be)
+- _Learn GitLab in 3 Hours | GitLab Complete Tutorial for Beginners_ [Youtube](https://www.youtube.com/watch?si=pKCMMJ2OJDEKVA5J&v=8aV5AxJrHDg&feature=youtu.be)
 - Host static content with GitLab Pages [Youtube](https://www.youtube.com/watch?v=Cs6YxW9mr6Y&t=623s)
 
 [Return to Home](https://bccdc-dsi.github.io/Python-Git-workshop/)
