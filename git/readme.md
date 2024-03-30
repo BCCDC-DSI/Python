@@ -9,7 +9,7 @@
 - [Rstudio first](https://intro2r.com/setting-up-a-project-in-rstudio.html#opt2)
 
 ## Collaborative workflows
-- sync
+- Sync
 - Pull
 - Branching
 
