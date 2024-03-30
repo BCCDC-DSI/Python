@@ -25,8 +25,8 @@ Please setup an account for each of the following platforms depending on your pe
 - Python 201: [Demo on writing classes](https://colab.research.google.com/github/hmok/Tutorials/blob/master/beginnersPythonCheatSheet.ipynb#scrollTo=Class_inhertitance)
   
 - Python users picking up R:
- - [2019 blog](https://medium.com/@nawazahmad20/r-for-python-programmers-part-1-ca4eab668b8c)
- - Suggestions?
+   - [2019 blog](https://medium.com/@nawazahmad20/r-for-python-programmers-part-1-ca4eab668b8c)
+   - Suggestions?
 
 For software-production projects, please ***consult with your manager before electing to develop your products in Python***.  
 
