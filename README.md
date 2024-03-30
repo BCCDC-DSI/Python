@@ -20,7 +20,7 @@ Please setup an account for each of the following platforms depending on your pe
 
 ## Python from beginning
 
-- [Python 101](python/) 
+- Python 101: [Colab notebooks](demos/) 
 - Python 102: [Creating virtual environments inhouse](python/seasoned) | [Guidelines](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/) | [tools](tools)
 - Python 201: [Demo on writing classes](https://colab.research.google.com/github/hmok/Tutorials/blob/master/beginnersPythonCheatSheet.ipynb#scrollTo=Class_inhertitance)
   
@@ -31,7 +31,7 @@ Please setup an account for each of the following platforms depending on your pe
 For software-production projects, please ***consult with your manager before electing to develop your products in Python***.  
 
 ## R users complementing work with Python
-- [resources](r_users/)
+- [Resources](r_users/)
  
 ## Reproducible Research (RR)
 
