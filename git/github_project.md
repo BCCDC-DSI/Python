@@ -1,6 +1,8 @@
 
 # GitHub - Q: projects or repo?
 
+Extracted from a [LinkedIn post](https://www.linkedin.com/pulse/difference-between-github-repository-project-mahmoud-alsayied)
+
 Author: Mahmoud AlSayed 
 - Frontend Developer | JavaScript, ReactJS, React Native, Redux, NextJS, SASS | UI Developer | Seeking Full-Time software Developer Job
 - Published Nov 19, 2021
