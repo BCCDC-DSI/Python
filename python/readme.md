@@ -22,8 +22,20 @@
 
 - ```def```
 - ```loop```
-- try/catch
-- dictionaries
+- ```try```/```except```
+- dictionaries:
+  - ```
+    hex_codes_for_colors = dict( red='#F00',
+                                 green='#0F0',
+                                 blue='#00F' )
+    ```
+    or
+  - ```
+    hex_codes_for_colors = {    'red': '#F00',
+                                'green': '#0F0',
+                                'blue':'#00F' )
+    
+    ```
 - ```import``` statements
 
 ## Magic commands
