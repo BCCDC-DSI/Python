@@ -47,12 +47,11 @@ For software-production projects, please ***consult with your manager before ele
       To install the current version of the requirements run:
     
       ```
-
       $ pip install -r https://raw.githubusercontent.com/intro-stat-learning/ISLP_labs/v2.1.3/requirements.txt
       $ jupyter lab Ch02-statlearning-lab.ipynb
-  
       ```
-       
+
+      More guidance at [ISLP](https://intro-stat-learning.github.io/ISLP/installation.html)
    </details>
 
 
