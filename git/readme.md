@@ -23,7 +23,7 @@
 
 ## GitHub: Project vs repo
 
-[Project vs Repo](git_project.md)
+[Project vs Repo](github_project.md)
 
 ## GitLab
 
