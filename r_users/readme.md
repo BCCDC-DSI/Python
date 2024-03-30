@@ -1,4 +1,6 @@
 
+# R users picking up Python
+
 > Python and R as *complementary* and not competing tools
 
 ## Sushi vs spaghetti 
