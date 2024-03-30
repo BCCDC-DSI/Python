@@ -7,6 +7,7 @@
 
 ## Recommended readings
 
+- [Using Python in R with reticulate](https://cran.r-project.org/web/packages/reticulate/vignettes/python_primer.html)
 - [Experiences on transitioning Python projects to R](https://towardsdatascience.com/the-starter-guide-for-transitioning-your-python-projects-to-r-8de4122b04ad)
 
 ## Themes of Colab notebooks to come
