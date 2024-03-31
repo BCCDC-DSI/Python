@@ -69,5 +69,7 @@ Many thanks to *Data & Analytics Services* and the curriculum consultants:
 - John Palmer
 - Michael Kuo
 - Mike Irvine
+- Nirupama Tamvada
+- Rebeca Falcao
 
 
