@@ -6,11 +6,12 @@ Click to view as [GitPages](https://bccdc-dsi.github.io/Python-Git-workshop/)
  
 ### April 4th session
 
-We can assist attendees to install Anaconda/ Git. It is not necessary to install GitHub Desktop.
+- We will assist attendees with installing Anaconda and getting accounts for Streamlit and GitHub. 
+- It is not necessary to install GitHub Desktop.
 
 ### April 5th session
 
-Please setup an account for each of the following platforms depending on your personal goals
+Please setup an account for each of the following platforms depending on your personal goals:
 
 | Accounts to obtain | Goals |
 | :-- | :-- |
@@ -24,7 +25,7 @@ Please setup an account for each of the following platforms depending on your pe
 | :-- | :-- |
 | Python 101 | - [Colab notebooks](colab/) |
 | Python 102 | - [Installing on your personal device with admin rights](https://intro-stat-learning.github.io/ISLP/installation.html) <br>- [Creating virtual environments inhouse](python/seasoned) <br>- [Guidelines](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/) <br>- [IDE tools](rr/tools) |
-| Python 201 | - [Demo on writing classes](https://colab.research.google.com/github/hmok/Tutorials/blob/master/beginnersPythonCheatSheet.ipynb#scrollTo=Class_inhertitance) |  
+| Python 201 | - [Demo on writing classes](https://colab.research.google.com/github/hmok/Tutorials/blob/master/beginnersPythonCheatSheet.ipynb#scrollTo=Class_inhertitance) <br>- [Demo on Copying objects](https://colab.research.google.com/drive/17pKv9A7dLAiG2DDcY1nsnXflWBk3XTRK)|  
 | Python users picking up R | - [2019 blog](https://medium.com/@nawazahmad20/r-for-python-programmers-part-1-ca4eab668b8c) <br> |
 
 
