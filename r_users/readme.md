@@ -11,19 +11,10 @@
 
 ## Recommended readings
 
+- [Best practices for R and Python side by side](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/)
 - [Using Python in R with reticulate](https://cran.r-project.org/web/packages/reticulate/vignettes/python_primer.html)
 - [Experiences on transitioning Python projects to R](https://towardsdatascience.com/the-starter-guide-for-transitioning-your-python-projects-to-r-8de4122b04ad)
 
-## Themes of Colab notebooks to come
-
-- [x] [Best practices for R and Python side by side](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/)
-- [x] Fast prototyping of web apps/ dashboards
-- [x] Geoscripting
-- [x] Web-scraping
-- [x] Text data processing
-- [ ] Scikit Learn [planned in the near future]
-    - [Prelude](https://www.r-bloggers.com/2020/04/how-to-run-pythons-scikit-learn-in-r-in-5-minutes/) - How to run Python in R in five minutes
-- [ ] _______ Add your suggestions here _______
  
 ## Packages available in both R and Python
 
