@@ -10,8 +10,7 @@
 
 |  R |  Python |
 | :-- | :-- |
-| [![Introduction to Statistical Learning by Gareth et al.](https://images.squarespace-cdn.com/content/v1/5ff2adbe3fe4fe33db902812/1611294680091-25SIDM9AHA8ECIFFST23/Screen+Shot+2021-01-21+at+11.02.06+AM.png?format=150w 'R version')](https://www.statlearning.com/resources-second-edition) | 
- [![Python version](https://images.squarespace-cdn.com/content/v1/5ff2adbe3fe4fe33db902812/8b373fbe-d1b4-4351-b803-0d3cd5bba1b0/ISLP_cover.png?format=150w 'Python version')](https://www.statlearning.com/resources-python) |
+| [![Introduction to Statistical Learning by Gareth et al.](https://images.squarespace-cdn.com/content/v1/5ff2adbe3fe4fe33db902812/1611294680091-25SIDM9AHA8ECIFFST23/Screen+Shot+2021-01-21+at+11.02.06+AM.png?format=150w 'R version')](https://www.statlearning.com/resources-second-edition) | [![Python version](https://images.squarespace-cdn.com/content/v1/5ff2adbe3fe4fe33db902812/8b373fbe-d1b4-4351-b803-0d3cd5bba1b0/ISLP_cover.png?format=150w 'Python version')](https://www.statlearning.com/resources-python) |
 
 
 ## Recommended readings
