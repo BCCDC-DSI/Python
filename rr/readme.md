@@ -12,12 +12,13 @@ Goodman et al. (2016):
 
 ## Reproducible environments
 
-- ***New!!*** [Best practices to RR from a Kaggler](https://www.kaggle.com/code/rtatman/reproducible-research-best-practices-jupytercon)
+- ***New!!*** [Best practices to RR from the perspectives of a Kaggler](https://www.kaggle.com/code/rtatman/reproducible-research-best-practices-jupytercon)
+- [R and Python with pven, renv, venv](https://occasionaldivergences.com/posts/rep-env/#:~:text=This%20%2Fvenv%20folder%20is%20the,source%20venv%2Fbin%2Factivate%20)
 - [Blog from Nov 2023](https://occasionaldivergences.com/posts/rep-env/)
 - Python:
-  ```
-  pip freeze requirements.txt
-  ```
+    ```
+    pip freeze > requirements.txt
+    ```
 - [Dockerfile](examples/Dockerfile)
 - YAML is a human readable language
   - Often used to write configuration files
