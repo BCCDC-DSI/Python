@@ -47,7 +47,7 @@ Goodman et al. (2016):
 - [Kaggle](https://www.kaggle.com)
 - Digital Ocean
 - Google Colab
-- [Jupyter.org](https//jupyter.org)
+- [Jupyter.org](https://jupyter.org)
 - ...
 
 ### Sponsored accounts
