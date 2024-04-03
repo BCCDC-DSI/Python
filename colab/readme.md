@@ -11,9 +11,7 @@
 
 ## Suggestions on future Colab notebooks?
 
-- [ ] Fast prototyping of web apps/ dashboards
 - [ ] _______ Add your suggestions here _______
-
 
 ## Data
 - [Mapping UBC](https://www.tomasbeuzen.com/python-for-geospatial-analysis/chapters/chapter2_spatial-viz-and-modelling.html)
