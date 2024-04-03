@@ -23,7 +23,7 @@ Please setup an account for each of the following platforms depending on your pe
 
 | Complexity |   |
 | :-- | :-- |
-| Python 101 | - [Colab notebooks](colab/) |
+| Python 101 | - [Colab notebooks on select topics to help you get started](colab/) |
 | Python 102 | - [Installing on your personal device with admin rights](https://intro-stat-learning.github.io/ISLP/installation.html) <br>- [Creating virtual environments inhouse](python/seasoned) <br>- [Guidelines](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/) <br>- [IDE tools](rr/tools) |
 | Python 201 | - [Demo on writing classes](https://colab.research.google.com/github/hmok/Tutorials/blob/master/beginnersPythonCheatSheet.ipynb#scrollTo=Class_inhertitance) <br>- [Demo on Copying objects](https://colab.research.google.com/drive/17pKv9A7dLAiG2DDcY1nsnXflWBk3XTRK)|  
 | Python users picking up R | - [2019 blog](https://medium.com/@nawazahmad20/r-for-python-programmers-part-1-ca4eab668b8c) <br> |
