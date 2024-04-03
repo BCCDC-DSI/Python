@@ -5,13 +5,14 @@
 
 > Think of Python and R as *complementary* and not competing tools
 
-## Pizza vs Ravioli
-- [2017 comparison](https://www.airitilibrary.com/Article/Detail/16838602-201707-201711160005-201711160005-355-371)
 
 |  R |  Python |
 | :-- | :-- |
 | [![Introduction to Statistical Learning by Gareth et al.](https://images.squarespace-cdn.com/content/v1/5ff2adbe3fe4fe33db902812/1611294680091-25SIDM9AHA8ECIFFST23/Screen+Shot+2021-01-21+at+11.02.06+AM.png?format=50w 'R version')](https://www.statlearning.com/resources-second-edition) | [![Python version](https://images.squarespace-cdn.com/content/v1/5ff2adbe3fe4fe33db902812/8b373fbe-d1b4-4351-b803-0d3cd5bba1b0/ISLP_cover.png?format=50w 'Python version')](https://www.statlearning.com/resources-python) |
 
+
+## Pizza vs Ravioli
+- [2017 comparison](https://www.airitilibrary.com/Article/Detail/16838602-201707-201711160005-201711160005-355-371)
 
 ## Recommended readings
 
