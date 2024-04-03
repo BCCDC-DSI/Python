@@ -44,10 +44,10 @@ Goodman et al. (2016):
 <details>
 
 ### Free with limits
-- Kaggle
+- [Kaggle](https://www.kaggle.com)
 - Digital Ocean
 - Google Colab
-- Jupyter.org
+- [Jupyter.org](https//jupyter.org)
 - ...
 
 ### Sponsored accounts
