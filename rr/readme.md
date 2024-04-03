@@ -5,7 +5,7 @@ Goodman et al. (2016):
 - Results
 - Inferential
 
-[More details](theory.md)
+[Five creative ways to promote reproducible science](theory.md)
 
 ## Version control
 - [Git](../git)
