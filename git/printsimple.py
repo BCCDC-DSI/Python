@@ -12,20 +12,21 @@ def main():
     print("Alice & Bob's Pet Family!")
 
     # Reading first CSV file
-    df1 = read_csv('Data/cat.csv')
-    if df1 is not None:
+    try:
+        df1 = read_csv('Data/cat.csv')    
         print("### Cat Eating Schedule:")
         print(df1)
-    else:
+    except:
         raise Exception("Error reading cat.csv")
 
     # Reading second CSV file
-    df2, error2 = read_csv('Data/dog.csv')
-    if df2 is not None:
+    
+    try:
+        df2 = read_csv('Data/dog.csv')
         print("### Dog Walking Schedule:")
         print(df2)
-    else:
-        raise Exception("Error reading dog2.csv")
+    except:
+        raise Exception("Error reading dog.csv")
 
 if __name__ == "__main__":
   # Anything placed here will never be executed in a module context.
