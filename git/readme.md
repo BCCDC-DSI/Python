@@ -27,7 +27,7 @@
 
 ## Take-home
 
-- [Tutorial created by Manny Gimond in 2021][https://mgimond.github.io/Colby-summer-git-workshop-2021/git_and_github.html#final-exercise)
+- [Tutorial created by Manny Gimond in 2021](https://mgimond.github.io/Colby-summer-git-workshop-2021/git_and_github.html#final-exercise)
 
 ## GitLab
 
