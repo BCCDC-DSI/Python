@@ -17,7 +17,7 @@ def main():
         print("### Cat Eating Schedule:")
         print(df1)
     else:
-        error("Error reading cat.csv:")
+        raise Exception("Error reading cat.csv")
 
     # Reading second CSV file
     df2, error2 = read_csv('Data/dog.csv')
@@ -25,7 +25,7 @@ def main():
         print("### Dog Walking Schedule:")
         print(df2)
     else:
-        error("Error reading dog2.csv")
+        raise Exception("Error reading dog2.csv")
 
 if __name__ == "__main__":
   # Anything placed here will never be executed in a module context.
