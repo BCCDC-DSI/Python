@@ -9,7 +9,24 @@
 | 3 | Data [I/O (input/output)](https://colab.research.google.com/drive/1THB6N2GOHPA7bxIMeKx50zTp1enKZkkl) <br> | - Examples in ```.json```, ```.xlsx```, ```.data```, ```.csv```, ```.pkl``` <br>  |
 | 4 | - [Basics of text processing](https://colab.research.google.com/drive/1wVz-94bDw_teotHaeKXqguPIN75fD7Mo) <br> - [Excel workbook](https://colab.research.google.com/drive/15ErdtG6BFvIvIaydXFr2fLyLJwqoLfQJ?usp=sharing)  <br> - [Downloading files from a website](https://colab.research.google.com/drive/1H5uD5gsuIR_z7qXkY5GUkrFyyT_sOEYG) <br> - [SQLite](https://colab.research.google.com/drive/1WciD3M0D_34yyoSO0DKMa7EpFHcaCUwh) <br> - [Benchmarking demo](https://colab.research.google.com/drive/1N8Z7a1ULXpHV7qqZZ-lLmQ1cHjnkJ7XW) <br> - [```polars``` cheatsheet](https://colab.research.google.com/drive/1ChG5jSXlSH2DUDUwCrRcIbArzzfipF-9) <br> - [plotly](https://colab.research.google.com/drive/1_wnigtXDxg4BSerhWOLC6xi8v76F8UUY) for interactive data visualization | |
 
-## Suggestions on future Colab notebooks?
+### Mounting to Google Drive
+
+```
+import os
+
+from google.colab import drive
+drive.mount('/content/drive')
+
+my_work_dir = '/content/drive/MyDrive/my_work_dir/'
+my_work_dir
+
+try:
+  os.mkdir( my_work_dir )
+except Exception as e:
+  print( e ) 
+```
+
+### Suggestions on future Colab notebooks?
 
 - [ ] _______ Add your suggestions here _______
 
@@ -23,3 +40,4 @@
 - [```Seaborn``` data visualization](https://www.kaggle.com/learn/data-visualization)
 - [```biopython](https://www.kaggle.com/code/samira1992/bioinformatics-project-4-msa)
 - [Web-scraping](https://www.kaggle.com/code/jonbown/web-scraping-box-office-data-with-python) 
+
