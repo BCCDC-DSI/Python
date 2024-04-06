@@ -1,4 +1,4 @@
-[View as GitPages](https://bccdc-dsi.github.io/Python-Git-workshop/) | (View on GitHub](https://github.com/BCCDC-DSI/Python-Git-workshop/edit/main/colab/readme.md)
+[View as GitPages](https://bccdc-dsi.github.io/Python-Git-workshop/) | [View on GitHub](https://github.com/BCCDC-DSI/Python-Git-workshop/edit/main/colab/readme.md)
 
 # 2024-APR-05: Interactive workshop on Git & Python for Reproducible Research
 
