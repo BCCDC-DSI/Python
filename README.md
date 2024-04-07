@@ -52,7 +52,8 @@ For software-production projects, please ***consult with your manager before ele
 - [Repeatable development environments with IDE](rr/tools)
 
 ## Open textbooks 
-- [Python for Data Science](https://byuidatascience.github.io/python4ds/index.html)
+- Data Science
+   - [R version](https://r4ds.had.co.nz/index.html) | [Python](https://byuidatascience.github.io/python4ds/index.html)
 - [Python for SAS Users](https://www.pythonforsasusers.com/)
 - [Introduction to Statistical Learning](https://www.statlearning.com/resources-second-edition)
    - [Python / R versions of this textbook](https://github.com/intro-stat-learning/ISLP_labs/tree/stable)
