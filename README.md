@@ -21,8 +21,8 @@ Please setup an account for each of the following platforms depending on your pe
 
 ## Quick how-to on installing Git/ virtual environments
 
-- [Citrix PHSA login page](https://remoteapps.healthbc.org/logon/LogonPoint/tmindex.html) to download Anaconda for Windows users
-- Mac users: use terminal and simply copy-paste:
+- **Windows users**, visit [Citrix PHSA login page](https://remoteapps.healthbc.org/logon/LogonPoint/tmindex.html) to download Anaconda3 
+- **Mac users**, use terminal and simply copy-paste:
   ```
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   brew install git
