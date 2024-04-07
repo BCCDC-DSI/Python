@@ -66,6 +66,8 @@ For software-production projects, please ***consult with your manager before ele
 
    </details>
 
+### Domain specific
+- [Python for biologists](https://www.pythonforbiologists.org/)
 
    
 ## Acknowledgements
