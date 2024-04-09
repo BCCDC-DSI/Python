@@ -19,10 +19,10 @@ Please setup an account for each of the following platforms depending on your pe
 | Google, GitHub, Streamlit | ... if you would like to get the most out of the workshop |
 | [Google](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARZ0qKJlj6VIf3H8gET1BA2BD8q98Mm4xnSs68VLWCmFiPkNzPaJJzqZc710ymyW9iZ8fWezEDxlLg&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1207831730%3A1711210547935397&theme=mn&ddm=0), [GitHub](https://github.com/), [Streamlit](https://streamlit.io), [Kaggle](https://www.kaggle.com/) | ... if you would like to try out everything that was mentioned during the workshop |
 
-## Quick how-to on installing Git/ virtual environments
+## Quick how-to
 
-- **Windows users**, visit [Citrix PHSA login page](https://remoteapps.healthbc.org/logon/LogonPoint/tmindex.html) to download Anaconda3 
-- **Mac users**, use terminal and simply copy-paste:
+- **Windows users**, visit [Citrix PHSA login page](https://remoteapps.healthbc.org/logon/LogonPoint/tmindex.html) to download Anaconda3 (needed for creation of virtual environments) 
+- **Mac users**, use terminal and simply copy-paste to install Git:
   ```
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   brew install git
