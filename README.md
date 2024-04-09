@@ -56,15 +56,17 @@ For software-production projects, please ***consult with your manager before ele
 - [Python for SAS Users](https://www.pythonforsasusers.com/)
 - [Introduction to Statistical Learning](https://www.statlearning.com/resources-second-edition)
    - [Python / R versions of this textbook](https://github.com/intro-stat-learning/ISLP_labs/tree/stable)
-   <details>      
-      To install the current version of the requirements run:
-    
-      ```
-      $ pip install -r https://raw.githubusercontent.com/intro-stat-learning/ISLP_labs/v2.1.3/requirements.txt
-      $ jupyter lab Ch02-statlearning-lab.ipynb
-      ```
-
-   </details>
+     <details>      
+      <summary>Setting up the virtual environment for ISLP</summary>
+      
+        To install the current version of the requirements run:
+      
+        ```
+        $ pip install -r https://raw.githubusercontent.com/intro-stat-learning/ISLP_labs/v2.1.3/requirements.txt
+        $ jupyter lab Ch02-statlearning-lab.ipynb   # an example to launch the notebook for Chapter 2 
+        ```
+  
+     </details>
 
 ### Domain specific
 - [Python for biologists](https://www.pythonforbiologists.org/)
