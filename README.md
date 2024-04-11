@@ -14,11 +14,11 @@ Please create an account for each of the following platforms depending on your p
 
 | Accounts to obtain | Goals |
 | :-- | :-- |
-| Colab[^1] | ... if you would like to save your work done during the workshop |
+| Colab| ... if you would like to save your work done during the workshop |
 | Colab, GitHub, Streamlit | ... if you would like to get the most out of the workshop |
-| [Google](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARZ0qKJlj6VIf3H8gET1BA2BD8q98Mm4xnSs68VLWCmFiPkNzPaJJzqZc710ymyW9iZ8fWezEDxlLg&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1207831730%3A1711210547935397&theme=mn&ddm=0), [GitHub](https://github.com/), [Streamlit](https://streamlit.io), [Kaggle](https://www.kaggle.com/) | ... if you would like to try out everything that was mentioned during the workshop |
+| [Colab](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARZ0qKJlj6VIf3H8gET1BA2BD8q98Mm4xnSs68VLWCmFiPkNzPaJJzqZc710ymyW9iZ8fWezEDxlLg&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1207831730%3A1711210547935397&theme=mn&ddm=0), [GitHub](https://github.com/), [Streamlit](https://streamlit.io), [Kaggle](https://www.kaggle.com/) | ... if you would like to try out everything that was mentioned during the workshop |
 
-[^1]:Colab + Kaggle ***offer free Graphical Processing Units*** for deep learning
+Colab + Kaggle ***offer free Graphical Processing Units*** for your deep learning applications.
 
 ## Quick how-to
 
