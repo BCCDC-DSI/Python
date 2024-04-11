@@ -3,8 +3,9 @@
 
 |  | Activity | Summary notes |
 | :-- | :-- | :-- |
-| 0 | [myfirstpy_colab](https://colab.research.google.com/drive/1zCnCLvfYvJk9-UoHYwG2wrz2cneBwaD0) | [Colab "How-to" Slides](https://docs.google.com/presentation/d/1mTPV4Wqup52IBjfxC3nbBIzovJB-01w1g-l-kQH_Zrc/) | 
-| 1 | [Workshop_demo1](https://colab.research.google.com/drive/1imlBKcMkvBnz61H6lFv8cnwvv066zd76) | Highlighting ```polars```, ```seaborn```, ```plotly``` |
+| 0 | - [Using R in Colab](https://colab.research.google.com/drive/1YZXHoX3A8q-FtDrl94Z71lAn4jVYKwGW) <br>- [Colab explaining Colab](https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Cheat_sheet_for_Google_Colab.ipynb) <br> - [Colab explaining Markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)| 
+| 1a | [myfirstpy_colab](https://colab.research.google.com/drive/1zCnCLvfYvJk9-UoHYwG2wrz2cneBwaD0) | [Colab "How-to" Slides](https://docs.google.com/presentation/d/1mTPV4Wqup52IBjfxC3nbBIzovJB-01w1g-l-kQH_Zrc/) | 
+| 1b | [Workshop_demo1](https://colab.research.google.com/drive/1imlBKcMkvBnz61H6lFv8cnwvv066zd76) | Highlighting ```polars```, ```seaborn```, ```plotly``` |
 | 2 | [Workshop_demo2](https://colab.research.google.com/drive/1BZjUHZugpOIoT3WNCYiRKReROyIHCnu-) | - Interactive maps with ```folium```+```bianca``` <br> - Other packages to try: ```geopandas```  ```xarray```  |
 | 3 | Data [I/O (input/output)](https://colab.research.google.com/drive/1THB6N2GOHPA7bxIMeKx50zTp1enKZkkl) <br> | Examples in ```.json```, ```.xlsx```, ```.data```, ```.csv```, ```.pdf```, ```.pkl``` <br>  |
 | 4 | - [Basics of text processing](https://colab.research.google.com/drive/1wVz-94bDw_teotHaeKXqguPIN75fD7Mo) <br> - [Excel workbook](https://colab.research.google.com/drive/15ErdtG6BFvIvIaydXFr2fLyLJwqoLfQJ?usp=sharing)  <br> - [Downloading files from a website](https://colab.research.google.com/drive/1H5uD5gsuIR_z7qXkY5GUkrFyyT_sOEYG) <br> - [SQLite](https://colab.research.google.com/drive/1WciD3M0D_34yyoSO0DKMa7EpFHcaCUwh) <br> - [Benchmarking demo](https://colab.research.google.com/drive/1N8Z7a1ULXpHV7qqZZ-lLmQ1cHjnkJ7XW) <br> - [```polars``` cheatsheet](https://colab.research.google.com/drive/1ChG5jSXlSH2DUDUwCrRcIbArzzfipF-9) <br> - [plotly](https://colab.research.google.com/drive/1_wnigtXDxg4BSerhWOLC6xi8v76F8UUY) for interactive data visualization | |
