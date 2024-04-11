@@ -33,7 +33,7 @@ Please create an account for each of the following platforms depending on your p
 
 | Complexity |   |
 | :-- | :-- |
-| Python 101 | - [Colab notebooks on select topics to help you get started](colab/) <br>- [https://ubc.syzygy.ca/](https://ubc.syzygy.ca/) <br>- [https://sfu.syzygy.ca/](https://sfu.syzygy.ca/) |
+| Python 101 | - [Colab notebooks on select topics to help you get started](colab/) ***Offers free GPU*** <br>- [https://ubc.syzygy.ca/](https://ubc.syzygy.ca/) <br>- [https://sfu.syzygy.ca/](https://sfu.syzygy.ca/) - [Jupyter.org](https://jupyter.org/try-jupyter/lab/) |
 | Python 102 | - [Installing on your personal device with admin rights](https://intro-stat-learning.github.io/ISLP/installation.html) <br>- [Creating virtual environments inhouse](python/seasoned) <br>- [Guidelines](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/) <br>- [IDE tools](rr/tools) |
 | Python 201 | - [Demo on writing classes](https://colab.research.google.com/github/hmok/Tutorials/blob/master/beginnersPythonCheatSheet.ipynb#scrollTo=Class_inhertitance) <br>- [Demo on Copying objects](https://colab.research.google.com/drive/17pKv9A7dLAiG2DDcY1nsnXflWBk3XTRK)|  
 | Python users picking up R | - [2019 blog](https://medium.com/@nawazahmad20/r-for-python-programmers-part-1-ca4eab668b8c) <br> |
