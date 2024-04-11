@@ -4,20 +4,20 @@
 
 ## Setup
  
-### April 4th session
+### April 4th - prep session
 
-- We will assist attendees with installing Anaconda and getting accounts for Streamlit and GitHub. 
-- It is not necessary to install GitHub Desktop.
+- We will assist attendees with installing Anaconda3 and getting accounts for ```Streamlit``` and GitHub. 
 
-### April 5th session
+### April 5th - main session
 
-Please setup an account for each of the following platforms depending on your personal goals:
+Please create an account for each of the following platforms depending on your personal goals:
 
 | Accounts to obtain | Goals |
 | :-- | :-- |
 | Google | ... if you would like to save your work done during the workshop |
 | Google, GitHub, Streamlit | ... if you would like to get the most out of the workshop |
 | [Google](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=ARZ0qKJlj6VIf3H8gET1BA2BD8q98Mm4xnSs68VLWCmFiPkNzPaJJzqZc710ymyW9iZ8fWezEDxlLg&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1207831730%3A1711210547935397&theme=mn&ddm=0), [GitHub](https://github.com/), [Streamlit](https://streamlit.io), [Kaggle](https://www.kaggle.com/) | ... if you would like to try out everything that was mentioned during the workshop |
+
 
 ## Quick how-to
 
@@ -33,7 +33,7 @@ Please setup an account for each of the following platforms depending on your pe
 
 | Complexity |   |
 | :-- | :-- |
-| Python 101 | - [Colab notebooks on select topics to help you get started](colab/) |
+| Python 101 | - [Colab notebooks on select topics to help you get started](colab/) <br>- [https://ubc.syzygy.ca/](https://ubc.syzygy.ca/) <br>- [https://sfu.syzygy.ca/](https://sfu.syzygy.ca/) |
 | Python 102 | - [Installing on your personal device with admin rights](https://intro-stat-learning.github.io/ISLP/installation.html) <br>- [Creating virtual environments inhouse](python/seasoned) <br>- [Guidelines](https://docs.google.com/presentation/d/1Tc6bMM7UWm92aahi-pleJUBNRh_fDl_D7jgNZbErbY4/) <br>- [IDE tools](rr/tools) |
 | Python 201 | - [Demo on writing classes](https://colab.research.google.com/github/hmok/Tutorials/blob/master/beginnersPythonCheatSheet.ipynb#scrollTo=Class_inhertitance) <br>- [Demo on Copying objects](https://colab.research.google.com/drive/17pKv9A7dLAiG2DDcY1nsnXflWBk3XTRK)|  
 | Python users picking up R | - [2019 blog](https://medium.com/@nawazahmad20/r-for-python-programmers-part-1-ca4eab668b8c) <br> |
