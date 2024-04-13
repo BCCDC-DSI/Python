@@ -6,11 +6,9 @@ relative_links:
 include:
   - README.md
   - LICENSE.md
-# this version will render table properly https://github.com/orgs/community/discussions/23945
 title: Python/Git Workshop
 markdown: GFM
 show_downloads: true
-google_analytics: G-966JZZV0M0
 theme:  jekyll-theme-leap-day
 
 
