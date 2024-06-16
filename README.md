@@ -2,11 +2,11 @@
 
 # 2024-APR-05: Interactive workshop on Git & Python for Reproducible Research
 
+## Workshop teaser
+
+- To see how to recreate [a web app based on Streamlit](https://apr5-demo-app1.streamlit.app/) and more!
+
 ## Setup
-
-### Workshop teaser
-
-- We will review steps to recreate [a web app based on Streamlit](https://apr5-demo-app1.streamlit.app/)
 
 ### April 4th - prep session
 
