@@ -3,7 +3,11 @@
 # 2024-APR-05: Interactive workshop on Git & Python for Reproducible Research
 
 ## Setup
- 
+
+### Workshop teaser
+
+- We will review steps to recreate [a web app based on Streamlit](https://apr5-demo-app1.streamlit.app/)
+
 ### April 4th - prep session
 
 - We will assist attendees with installing Anaconda3 and getting accounts for ```Streamlit``` and GitHub. 
