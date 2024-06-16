@@ -76,8 +76,13 @@ For software-production projects, please ***consult with your manager before ele
 ### Domain specific
 - [Python for biologists](https://www.pythonforbiologists.org/)
 
+### Workshop developers & faciliators
+
+- Afraz Khan
+- Nirupama Tamvada
+- Lisa Tang
    
-## Acknowledgements
+### Acknowledgements
 
 Many thanks to *Data & Analytics Services* and the curriculum consultants:
 - Abdulaa Babili
@@ -89,7 +94,6 @@ Many thanks to *Data & Analytics Services* and the curriculum consultants:
 - John Palmer
 - Michael Kuo
 - Mike Irvine
-- Nirupama Tamvada
 - Rebeca Falcao
 
 
