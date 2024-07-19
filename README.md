@@ -76,7 +76,7 @@ For software-production projects, please ***consult with your manager before ele
 ### Domain specific
 - [Python for biologists](https://www.pythonforbiologists.org/)
 
-### Workshop developers & faciliators
+### Workshop developers & facilitators
 
 - Afraz Khan
 - Nirupama Tamvada
